@@ -8,6 +8,6 @@ A Go project scaffold integrating wire for dependency injection and fuego for st
 ### Overview
 This repository provides a starting point for Go projects, featuring pre-configured dependency injection using wire and logging with fuego.
 
-### Features
+### Features
 - Dependency Injection: Utilizes wire for clean and efficient dependency management.
 - Web Server: Integrates fuego for building fast, flexible web servers.
