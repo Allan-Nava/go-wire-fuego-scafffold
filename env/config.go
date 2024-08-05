@@ -2,16 +2,17 @@ package env
 
 import (
 	"fmt"
-	"github.com/caarlos0/env/v6"
-	"github.com/joho/godotenv"
 	"os"
 	"strings"
+
+	"github.com/caarlos0/env/v6"
+	"github.com/joho/godotenv"
 )
 
 type Configuration struct {
-	LogLevel              string `env:"LOG_LEVEL"`
+	AppEnv   string `env:"APP_ENV"`
+	LogLevel string `env:"LOG_LEVEL"`
 }
-
 
 func GetEnvConfig() *Configuration {
 	setupEnv()

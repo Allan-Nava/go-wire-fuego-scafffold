@@ -3,6 +3,7 @@ module github.com/Allan-Nava/go-wire-fuego-scafffold
 go 1.22.2
 
 require (
+	github.com/Paxx-RnD/go-helper v1.0.63
 	github.com/caarlos0/env/v6 v6.10.1 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.4 // indirect
 	github.com/getkin/kin-openapi v0.126.0 // indirect
@@ -22,6 +23,7 @@ require (
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826 // indirect
 	github.com/perimeterx/marshmallow v1.1.5 // indirect
+	github.com/rs/cors v1.11.0
 	go.uber.org/multierr v1.10.0 // indirect
 	go.uber.org/zap v1.27.0 // indirect
 	golang.org/x/crypto v0.25.0 // indirect
