@@ -4,6 +4,7 @@ go 1.22.2
 
 require (
 	github.com/Paxx-RnD/go-helper v1.0.63
+	github.com/caarlos0/env/v11 v11.2.2
 	github.com/caarlos0/env/v6 v6.10.1
 	github.com/go-fuego/fuego v0.14.0
 	github.com/google/wire v0.6.0
