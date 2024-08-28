@@ -2,7 +2,7 @@ package database
 
 import (
 	"fmt"
-    "log"
+	"log"
 	"strconv"
 
 	"github.com/Allan-Nava/go-wire-fuego-scafffold/env"
@@ -10,9 +10,8 @@ import (
 	"gorm.io/gorm"
 )
 
-
 func NewDB(config *env.Configuration) *gorm.DB {
-    dsn := fmt.Sprintf("%s:%s@tcp(%s:%s)/%s?parseTime=true", config.DbUsername, config.TangramDbPassword, config.DbHost, config.DbPort, config.DbName)
+	dsn := fmt.Sprintf("%s:%s@tcp(%s:%s)/%s?parseTime=true", config.DbUsername, config.DbPassword, config.DbHost, config.DbPort, config.DbName)
 	conn, err := gorm.Open(mysql.Open(dsn), &gorm.Config{})
 	if err != nil {
 		log.Fatalf("error connection on %s, err: %s", dsn, err.Error())
