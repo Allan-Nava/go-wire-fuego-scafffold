@@ -1,4 +1,4 @@
-FROM golang:1.22-alpine AS build_base
+FROM golang:1.23-alpine AS build_base
 
 RUN mkdir -p /etc/ssl/certs/ && update-ca-certificates && apk add --no-cache git
 
