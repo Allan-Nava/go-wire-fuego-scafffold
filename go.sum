@@ -1,3 +1,5 @@
+github.com/HiWay-Media/hwm-go-utils v0.6.79 h1:tQxbdS6d5EW8tdwUBrxm6331kSoD86dM/MZXS5Smtlk=
+github.com/HiWay-Media/hwm-go-utils v0.6.79/go.mod h1:RMYxjQbIhfr/V4EqUrMnWRtTDGRGkduAM+UIXCZ7RKk=
 github.com/Paxx-RnD/go-helper v1.0.63 h1:3LeA4L+iSipncHMPVaD0GAv+QtbBStIPEjiu38XFO+o=
 github.com/Paxx-RnD/go-helper v1.0.63/go.mod h1:Ng47qyxnTvYB/dJMOa748CXzIgjOd3HLi+y5bqa8li8=
 github.com/caarlos0/env/v6 v6.10.1 h1:t1mPSxNpei6M5yAeu1qtRdPAK29Nbcf/n3G7x+b3/II=

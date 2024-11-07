@@ -15,6 +15,7 @@ require (
 )
 
 require (
+	github.com/HiWay-Media/hwm-go-utils v0.6.79 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.4 // indirect
 	github.com/getkin/kin-openapi v0.126.0 // indirect
 	github.com/go-openapi/jsonpointer v0.21.0 // indirect
