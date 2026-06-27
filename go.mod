@@ -11,7 +11,7 @@ require (
 	github.com/rs/cors v1.11.0
 	go.uber.org/zap v1.27.0
 	gorm.io/driver/mysql v1.5.7
-	gorm.io/gorm v1.25.11
+	gorm.io/gorm v1.31.2
 )
 
 require (
@@ -38,6 +38,6 @@ require (
 	golang.org/x/crypto v0.25.0 // indirect
 	golang.org/x/net v0.27.0 // indirect
 	golang.org/x/sys v0.22.0 // indirect
-	golang.org/x/text v0.16.0 // indirect
+	golang.org/x/text v0.20.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
