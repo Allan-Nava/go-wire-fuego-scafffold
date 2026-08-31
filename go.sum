@@ -2,6 +2,8 @@ github.com/HiWay-Media/hwm-go-utils v0.6.79 h1:tQxbdS6d5EW8tdwUBrxm6331kSoD86dM/
 github.com/HiWay-Media/hwm-go-utils v0.6.79/go.mod h1:RMYxjQbIhfr/V4EqUrMnWRtTDGRGkduAM+UIXCZ7RKk=
 github.com/Paxx-RnD/go-helper v1.0.63 h1:3LeA4L+iSipncHMPVaD0GAv+QtbBStIPEjiu38XFO+o=
 github.com/Paxx-RnD/go-helper v1.0.63/go.mod h1:Ng47qyxnTvYB/dJMOa748CXzIgjOd3HLi+y5bqa8li8=
+github.com/Paxx-RnD/go-helper v1.0.68 h1:fHV9cfMce8WxBEzVAPu/9CjlXHUWtc5bf5zGh3XGf8E=
+github.com/Paxx-RnD/go-helper v1.0.68/go.mod h1:Ng47qyxnTvYB/dJMOa748CXzIgjOd3HLi+y5bqa8li8=
 github.com/caarlos0/env/v6 v6.10.1 h1:t1mPSxNpei6M5yAeu1qtRdPAK29Nbcf/n3G7x+b3/II=
 github.com/caarlos0/env/v6 v6.10.1/go.mod h1:hvp/ryKXKipEkcuYjs9mI4bBCg+UI0Yhgm5Zu0ddvwc=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
